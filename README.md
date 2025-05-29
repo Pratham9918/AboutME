@@ -10,7 +10,7 @@ Passionate about exploring the intersection of technology and creativity 💡�
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Pratham9918&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=JayantGoel001&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JayantGoel001&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cheshire137&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pratham9918&theme=radical&no-frame=false&no-bg=true&margin-w=4)
